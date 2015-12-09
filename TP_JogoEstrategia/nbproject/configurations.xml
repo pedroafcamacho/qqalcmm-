@@ -4,7 +4,7 @@
     <logicalFolder name="HeaderFiles"
                    displayName="Header Files"
                    projectFiles="true">
-      <itemPath>Menu.h</itemPath>
+      <itemPath>Jogo.h</itemPath>
       <itemPath>Nave.h</itemPath>
       <itemPath>Sala.h</itemPath>
       <itemPath>Tripulante.h</itemPath>
@@ -46,7 +46,7 @@
       </compileType>
       <item path="Jogo.cpp" ex="false" tool="1" flavor2="0">
       </item>
-      <item path="Menu.h" ex="false" tool="3" flavor2="0">
+      <item path="Jogo.h" ex="false" tool="3" flavor2="0">
       </item>
       <item path="Nave.cpp" ex="false" tool="1" flavor2="0">
       </item>
@@ -85,7 +85,7 @@
       </compileType>
       <item path="Jogo.cpp" ex="false" tool="1" flavor2="0">
       </item>
-      <item path="Menu.h" ex="false" tool="3" flavor2="0">
+      <item path="Jogo.h" ex="false" tool="3" flavor2="0">
       </item>
       <item path="Nave.cpp" ex="false" tool="1" flavor2="0">
       </item>
